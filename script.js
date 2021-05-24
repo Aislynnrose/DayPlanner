@@ -15,7 +15,7 @@ let block = $('col-md-8')
         // hour is == to set present
       }
       else if (hour > blockTime){
-        // hour is more set 
+        $(textarea).setClass(".future")
       }
     });
   }
