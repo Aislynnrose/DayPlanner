@@ -18,15 +18,15 @@ $innerTextArea = document.querySelectorAll("textarea");
       console.log(blockTime);
       // if the current hour is less than the ID then set to future class 
       if (hour < blockTime) {
-        $(this).addClass( ".future");
+        $(this).addClass( "future");
       }
       // if the current hour is equal to the ID then set to present class
       else if (hour == blockTime){
-        $(this).addClass(".present");
+        $(this).addClass("present");
       }
       // if the current hour is more than the ID then set to past class
       else if (hour > blockTime){
-        $(this).addClass(".past");
+        $(this).addClass("past");
       }
     });
   }
