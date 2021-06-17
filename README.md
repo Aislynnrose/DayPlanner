@@ -17,9 +17,9 @@ This website was built using [Boostrap](https://getbootstrap.com) and [Moment.js
 
 ## Preview
 
-![Screenshot](./images/ScheduleAdded.PNG)
-
 ![Another Screenshot](./images/DayPlannerSnippet.PNG)
+
+![Screenshot](./images/ScheduleAdded.PNG)
 
 # Technologies Used
 
